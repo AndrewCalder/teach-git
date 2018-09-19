@@ -1,0 +1,2 @@
+Remember to talk about logs.
+Talk more about diffs.
