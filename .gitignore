@@ -1,2 +1,4 @@
 # ignore log files
 log_*
+#except this one
+!log_01
